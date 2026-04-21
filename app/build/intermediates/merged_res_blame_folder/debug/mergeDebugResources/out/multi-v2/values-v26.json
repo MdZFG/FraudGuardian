@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.fraudguardian.app-mergeDebugResources-42:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/Users/ssheikh/FraudGuardian/app/src/main/res/values-v26/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "172"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "211"
+                    }
+                },
+                {
+                    "source": "/Users/ssheikh/.gradle/caches/8.11.1/transforms/375c45fe597457f65c9659827d6f99d6/transformed/appcompat-1.7.0/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,11,15,19",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "216,291,378,542,718,957",
+                        "endLines": "5,6,10,14,18,19",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "286,373,537,713,952,1045"
+                    }
+                }
+            ]
+        }
+    ]
+}

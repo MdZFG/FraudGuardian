@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/drawable_log_item_bg.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/drawable/log_item_bg.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/xml_locales_config.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/xml/locales_config.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/layout_activity_settings.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/layout_activity_main.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fraudguardian.app-debug-44:/layout_activity_main.xml.flat",
+        "source": "com.example.fraudguardian.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/layout_activity_alert.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/layout/activity_alert.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/layout_fragment_home.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/layout_activity_trusted.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/layout/activity_trusted.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/layout_item_log.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/layout/item_log.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/drawable_ic_notification.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-debug-44:/menu_main_menu.xml.flat",
+        "source": "/Users/ssheikh/.gradle/daemon/8.11.1/com.example.fraudguardian.app-main-46:/menu/main_menu.xml"
+    }
+]
