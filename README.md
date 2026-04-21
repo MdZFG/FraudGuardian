@@ -1,7 +1,5 @@
 # FraudGuardian 🛡️
 
-# FraudGuardian 🛡️
-
 FraudGuardian is an Android cybersecurity app designed to protect users—especially elderly and vulnerable individuals—from common phone-based frauds like OTP scams and unknown caller threats.
 
 ## 🚀 Features
